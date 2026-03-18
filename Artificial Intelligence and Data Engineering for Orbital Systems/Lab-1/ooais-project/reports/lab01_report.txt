@@ -1,0 +1,5 @@
+We're looking at 5 observations concerning 4 objects.
+Measurements include their timestamp, temperature and velocity.
+The last measurement, concerning object 4, has an invalid temperature value which we removed through the grep CLI command.
+This removal of invalid values is also the cleaning process.
+
